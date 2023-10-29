@@ -15,6 +15,13 @@
         <span id="liters"></span>
         <small>Remained</small>
       </div>
+      <div class="percentage" id="percentage"></div>
+    </div>
+
+    <p class="text">Select how many glasses of water that you have drank</p>
+
+    
+
 
     <script src="script.js"></script>
   </body>
