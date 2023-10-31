@@ -7,6 +7,9 @@ water
   --fill-color: #6ab3f8;
 }
 
+* {
+    box-sizing: border-box;
+  }
 
 .cup.cup-small.full {
     background-color: var(--fill-color);
