@@ -74,7 +74,10 @@ h3 {
   width: 280px;
 }  
 
-
+.cup.cup-small.full {
+    background-color: var(--fill-color);
+    color: #fff;
+  }
 
 .remained span {
     font-size: 20px;
