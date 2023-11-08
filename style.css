@@ -69,6 +69,12 @@ h3 {
   width: 280px;  
 }
 
+.remained {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .cup.cup-small.full {
   background-color: var(--fill-color);
   color: #fff;
