@@ -92,6 +92,12 @@ h3 {
   color: #fff;
 }
 
+.remained {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 .remained span {
   font-size: 20px;
   font-weight: bold;
