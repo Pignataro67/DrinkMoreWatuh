@@ -106,4 +106,7 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bold;
+    font-size: 30px;
+    height: 0;
 }
