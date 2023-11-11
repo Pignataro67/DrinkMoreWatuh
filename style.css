@@ -104,4 +104,6 @@ h3 {
   .percentage {
     background-color: var(--fill-color);
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
