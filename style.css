@@ -74,12 +74,7 @@ h3 {
   align-items: center;
 }
 
-.cup.cup-small.full {
-  background-color: var(--fill-color);
-  color: #fff;
-}
-
-.cups {
+cups {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -95,7 +90,7 @@ h3 {
 .cups {
   display: flex;
   flex-wrap: wrap;
-  lign-items: center;
+  align-items: center;
   justify-content: center;
   width: 280px;
 }
