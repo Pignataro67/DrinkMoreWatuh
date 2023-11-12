@@ -95,6 +95,9 @@ h3 {
 .cups {
   display: flex;
   flex-wrap: wrap;
+  lign-items: center;
+  justify-content: center;
+  width: 280px;
 }
 
 .remained {
