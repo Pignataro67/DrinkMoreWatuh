@@ -92,6 +92,8 @@ cups {
   align-items: center;
   justify-content: center;
   text-align: center;
+  margin: 5px;
+  transition: 0.3s ease;
 }
 
 .cup.cup-small.full {
