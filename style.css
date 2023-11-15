@@ -74,6 +74,11 @@ h3 {
   align-items: center;
 }
 
+.cup {
+    background-color: #fff;
+    border: 4px solid var(--border-color);
+}
+
 cups {
   display: flex;
   flex-wrap: wrap;
