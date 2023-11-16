@@ -78,6 +78,11 @@ h3 {
   transition: 0.3s ease;
 }
 
+.remained span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .cup {
     background-color: #fff;
     border: 4px solid var(--border-color);
