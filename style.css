@@ -51,3 +51,8 @@ input[type='range']::-webkit-slider-runnable-track {
   height: 10px;
   cursor: pointer;
 }
+
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 24px;
+}
