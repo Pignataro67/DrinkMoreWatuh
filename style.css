@@ -71,3 +71,8 @@ input[type='range']::-moz-range-track {
   height: 13px;
   cursor: pointer;
 }
+
+input[type='range']::-moz-range-thumb {
+  -webkit-appearance: none;
+  height: 24px;
+}
