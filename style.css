@@ -91,3 +91,8 @@ input[type='range']::-ms-track {
   height: 13px;
   cursor: pointer;
 }
+
+input[type='range']::-ms-thumb {
+  -webkit-appearance: none;
+  height: 24px;
+}
