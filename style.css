@@ -77,9 +77,9 @@ input[type='range']::-moz-range-thumb {
   height: 24px;
   width: 24px;
   background: #fff;
-  border-radius: 50%;
+  border-radius: 45%;
   border: 1px solid purple;
-  margin-top: -7px;
+  margin-top: -5px;
   cursor: pointer;
 }
 
