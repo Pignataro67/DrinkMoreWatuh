@@ -97,8 +97,8 @@ input[type='range']::-ms-thumb {
   height: 24px;
   width: 24px;
   background: #fff;
-  border-radius: 50%;
+  border-radius: 55%;
   border: 1px solid purple;
-  margin-top: -7px;
+  margin-top: -5px;
   cursor: pointer;
 }
