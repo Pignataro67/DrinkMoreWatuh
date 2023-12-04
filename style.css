@@ -44,6 +44,8 @@ body {
 }
 
 .right-slide {
+  height: 100%;
+  position: absolute;
   top: 0;
   left: 35%;
   width: 65%;
