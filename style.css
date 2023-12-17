@@ -80,6 +80,11 @@ body {
   max-width: 390px;
 }
 
+.user-info ul li {
+  display: flex;
+  align-items: center;
+}
+
 .repo {
   text-decoration: none;
   color: #fff;
