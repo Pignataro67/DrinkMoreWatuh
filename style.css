@@ -77,7 +77,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 0;
-  max-width: 390px;
+  max-width: 400px;
 }
 
 .user-info ul li {
@@ -87,7 +87,7 @@ body {
 
 user-info ul li strong {
   font-size: 0.9rem;
-  margin-left: 0.5rem;
+  margin-left: 0.7rem;
 }
 
 .repo {
