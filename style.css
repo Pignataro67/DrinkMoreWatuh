@@ -32,8 +32,11 @@ img {
   transition: transform 0.5s ease-in-out;
 }
 
-
 .buttons-container {
   display: flex;
   justify-content: space-between;
+}
+
+.btn:hover {
+  opacity: 0.9;
 }
