@@ -37,6 +37,11 @@ img {
   justify-content: space-between;
 }
 
+.btn {
+  background-color: rebeccapurple;
+  color: #fff;
+}
+
 .btn:hover {
   opacity: 0.9;
 }
