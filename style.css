@@ -40,6 +40,7 @@ img {
 .btn {
   background-color: rebeccapurple;
   color: #fff;
+  border: none;
 }
 
 .btn:hover {
