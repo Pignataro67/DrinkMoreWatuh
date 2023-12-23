@@ -19,4 +19,5 @@ function changeImage() {
     } else if(idx < 0) {
         idx = img.length - 1
     }
+    imgs.style.transform = `translateX(${-idx * 500}px)`
 }
