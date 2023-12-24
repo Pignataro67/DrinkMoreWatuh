@@ -20,7 +20,7 @@ img {
 }
 
 .carousel {
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
   height: 530px;
   width: 500px;
   overflow: hidden;
@@ -43,7 +43,7 @@ img {
   border: none;
   padding: 0.5rem;
   cursor: pointer;
-  width: 49.5%;
+  width: 50.0%;
 }
 
 .btn:hover {
