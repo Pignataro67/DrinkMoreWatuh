@@ -31,3 +31,7 @@ body {
   box-shadow: 0 5px rgba(249, 202, 36, 0.5);
   z-index: 90;
 }
+
+.boxes.big .box {
+  transform: rotateZ(360deg);
+}
