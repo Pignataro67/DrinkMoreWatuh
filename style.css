@@ -49,4 +49,7 @@ body {
 .box::after {
   top: 8px;
   right: -15px;
+  height: 100%;
+  width: 15px;
+  transform: skewY(45deg);
 }
