@@ -60,4 +60,9 @@ body {
 .box::before {
   content: '';
   background-color: #f9ca24;
+  left: 8px;
+  height: 15px;
+  width: 100%;
+  transform: skewX(45deg);
+
 }
