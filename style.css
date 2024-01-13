@@ -32,6 +32,12 @@ body {
   z-index: 90;
 }
 
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 .boxes.big {
   width: 600px;
   height: 600px;
