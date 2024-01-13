@@ -32,6 +32,10 @@ body {
   z-index: 90;
 }
 
+.magic:focus {
+  outline: none;
+}
+
 .boxes {
   display: flex;
   flex-wrap: wrap;
